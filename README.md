@@ -7,8 +7,10 @@ OR "Open Source, Open Science and the laboratory of the future"
   * prompt to set up a GitHub repository with manubot already pre-loaded and a solid directory template
   * prompt to set up a Slack/Discord with Github and Coordinpape integration
   * tool to "publish" github repository by minting an NFT
-    * export GitHub repository snapshot to IPFS with intact directory structure
-    * enable threshold encryption of GitHub export using LitProtocol and mint access-controlling NFT
+    * export GitHub repository snapshot to IPFS with intact directory structure. Cover image of the NFT can be a visual abstract of the work.
+    * enable threshold encryption of GitHub export using LitProtocol and mint access-controlling NFT (if desired)
+    * perform fractionalization of the NFT
+    * distribute the fractionalized NFT according to the balance of $GIVE tokens on coordinape
 
 ## Problem
 The web has enabled the rapid development of open source software. By bringing together contributors from around the globe with intrinsic motivation and the right talent to contribute to a project, open source communities are able to produce work that is on par with comparable closed source projects developed within for-profit entities. 
